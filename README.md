@@ -28,11 +28,7 @@ As part of this initiative, we:
 
 ---
 
-## 📊 Example Output
 
-Below is a sample backtesting dashboard:
-
-
-In this github repositry it contains my jupyter notebooks for the 3 sample data that I used, in these It has the strategy code as well as the results by performing this strategy on the backtester.
+-In this github repositry it contains my jupyter notebooks for the 3 sample data that I used, in these It has the strategy code as well as the results by performing this strategy on the backtester.
 
 
